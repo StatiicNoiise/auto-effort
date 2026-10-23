@@ -1,0 +1,7 @@
+{
+  "name": "auto-effort",
+  "version": "0.1.0",
+  "description": "Picks the reasoning effort for each prompt automatically; toggle with /auto-effort",
+  "author": { "name": "statiicnoiise" },
+  "license": "MIT"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "auto-effort",
+  "owner": { "name": "statiicnoiise" },
+  "plugins": [{ "name": "auto-effort", "source": "./" }]
+}
